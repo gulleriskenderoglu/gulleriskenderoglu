@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Guller 👋
 
-<!--
-**gulleriskenderoglu/gulleriskenderoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Oracle Utilities Consultant with 12+ years of experience turning business requirements into working solutions.
 
-Here are some ideas to get you started:
+```python
+while learning:
+    improve()
+    automate()
+    explore()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently working on
+
+* Oracle Utilities (CC&B, C2M, CCS)
+* Data Migration & Validation
+* Functional and Solution Design
+
+## 🌱 Currently learning
+
+* Python
+* Pandas
+* AI for Utilities
+* Azure AI
+
+## 💬 Ask me about
+
+* Oracle Utilities
+* Data Migration
+* SQL
+* Functional Design Documents
+* Integration Flows
+
+## ⚡ Interested in
+
+* Utilities Digital Transformation
+* AI in Energy & Utilities
+* Automation
+* International Oracle Utilities Projects
+
+## 🛠 Tech Stack
+
+* Oracle CC&B
+* Oracle C2M
+* Oracle CCS
+* SQL
+* Python
+* GitHub
+* AI Tools
+
+## 📚 Current Mission
+
+Transforming years of functional consulting experience into Solution Architecture, Python and AI-driven automation.
+
+---
+
+> "Continuous improvement beats delayed perfection."
+
+☕ Coffee | 🐎 Horse lover | 🌍 Lifelong learner
+
