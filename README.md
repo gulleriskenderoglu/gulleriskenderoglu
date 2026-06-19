@@ -55,5 +55,12 @@ Transforming years of functional consulting experience into Solution Architectur
 
 > "Continuous improvement beats delayed perfection."
 
-☕ Coffee | 🐎 Horse lover | 🌍 Lifelong learner
+Fun Facts
+☕ Powered by coffee
+🐎 Horse lover
+🌍 Passionate about international projects
+📚 Lifelong learner
+🚀 Always curious about what's next
+
+Thanks for visiting! 😎✌🏼
 
