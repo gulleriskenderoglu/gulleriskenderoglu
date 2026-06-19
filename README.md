@@ -66,13 +66,13 @@ def career():
 
 </details>
 
-📚 Current Mission
-
-    Continuously expanding my expertise in Solution Architecture, Python and automation, building on 12+ years of Oracle Utilities experience.
-
-  🚀 "There is always room for improvement"
-
-Fun Facts
+    📚 Current Mission
+        
+        Continuously expanding my expertise in Solution Architecture, Python and automation, building on 12+ years of Oracle Utilities experience.
+         🚀 "There is always room for improvement"
+      
+<details>
+<summary>Fun Facts🥳</summary>
 <br>
 ☕ Powered by coffee
 <br>
@@ -82,8 +82,12 @@ Fun Facts
 <br>
 📚 Lifelong learner
 <br>
+🗣️👀learning languages | 🇬🇧 English | 🇩🇪 German | Spanish 🇪🇸 | 🇰🇷 Korean | 🇯🇵 Japanese | 🇸🇦 Arabic
+<br>
 🚀 Always curious about what's next
 <br>
+</details>
 
-Thanks for visiting! 😎✌🏼🥳
+
+Thanks for visiting! 😎✌🏼
 
