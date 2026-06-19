@@ -1,14 +1,13 @@
-# Hi there, I'm Guller 👋
+Hi there, I'm Guller 👋
 
 Senior Oracle Utilities Consultant with 12+ years of experience turning business requirements into working solutions.
 
 ```python
-while learning:
-    improve()
-    automate()
-    explore()
+def career():
+    experience = "12+ years Oracle Utilities"
+    learning = ["Python", "AI", "Automation"]
+    return "Always improving 🚀"
 ```
-
 
 ## 🔭 Currently working on
 
@@ -16,29 +15,46 @@ while learning:
 * Data Migration & Validation
 * Functional and Solution Design
 
-## 🌱 Currently learning
+<details>
+<summary>🌱 Currently learning</summary>
 
-* Python
-* Pandas
-* AI for Utilities
-* Azure AI
+<br>
 
-## 💬 Ask me about
+- Python
+- Pandas
+- AI for Utilities
+- Azure AI
 
-* Oracle Utilities
-* Data Migration
-* SQL
-* Functional Design Documents
-* Integration Flows
+</details>
 
-## ⚡ Interested in
+<details>
+<summary>💬 Ask me about</summary>
 
-* Utilities Digital Transformation
-* AI in Energy & Utilities
-* Automation
-* International Oracle Utilities Projects
+<br>
 
-## 🛠 Tech Stack
+- Oracle Utilities
+- Data Migration
+- SQL
+- Functional Design Documents
+- Integration Flows
+
+</details>
+<details>
+<summary>⚡ Interested in</summary>
+
+<br>
+
+- Utilities Digital Transformation
+- AI in Energy & Utilities
+- Automation
+- International Oracle Utilities Projects
+
+</details>
+
+<details>
+<summary>🛠 Tech Stack</summary>
+
+<br>
 
 * Oracle CC&B
 * Oracle C2M
@@ -48,20 +64,26 @@ while learning:
 * GitHub
 * AI Tools
 
-## 📚 Current Mission
+</details>
 
-Transforming years of functional consulting experience into Solution Architecture, Python and AI-driven automation.
+📚 Current Mission
 
----
+    Continuously expanding my expertise in Solution Architecture, Python and automation, building on 12+ years of Oracle Utilities experience.
 
-> "Continuous improvement beats delayed perfection."
+  🚀 "There is always room for improvement"
 
 Fun Facts
+<br>
 ☕ Powered by coffee
+<br>
 🐎 Horse lover
+<br>
 🌍 Passionate about international projects
+<br>
 📚 Lifelong learner
+<br>
 🚀 Always curious about what's next
+<br>
 
-Thanks for visiting! 😎✌🏼
+Thanks for visiting! 😎✌🏼🥳
 
